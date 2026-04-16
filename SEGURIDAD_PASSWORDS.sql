@@ -38,3 +38,6 @@ BEGIN
     RETURN TRUE;
 END;
 /
+
+
+commit;
